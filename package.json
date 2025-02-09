@@ -46,7 +46,6 @@
     ]
   },
   "devDependencies": {
-    "@testing-library/dom": "12",
     "@testing-library/react": "^12.1.5",
     "@types/react-big-calendar": "^1.16.1",
     "autoprefixer": "^10.4.4",
